@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="VastShadow-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="VastShadow-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="VastShadow-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="VastShadow-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="VastShadow-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="VastShadow-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="VastShadow-Regular.ttf._c_m_a_p.ttx"/>
+  <prep src="VastShadow-Regular.ttf._p_r_e_p.ttx"/>
+  <loca src="VastShadow-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="VastShadow-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="VastShadow-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="VastShadow-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="VastShadow-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="VastShadow-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="VastShadow-Regular.ttf.G_D_E_F_.ttx"/>
+  <DSIG src="VastShadow-Regular.ttf.D_S_I_G_.ttx"/>
+</ttFont>
