@@ -1,0 +1,5 @@
+commit: HEAD
+process_files: [VastShadow-Regular.ttf.ttx, src/VastShadow-Regular.otf.ttx, src/VastShadow-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
